@@ -22,9 +22,9 @@ MAIL_SERVER = 'smtp.gmail.com'
 MAIL_PORT = 587
 MAIL_USE_SSL = False
 MAIL_USE_TLS = True
-MAIL_USERNAME = 'yourname@gmail.com'
-MAIL_PASSWORD = 'password'
-MAIL_DEFAULT_SENDER = '"Your Name" <yourname@gmail.com>'
+MAIL_USERNAME = 'theresaming@gmail.com'
+MAIL_PASSWORD = 'kujmxeigecdbkhaa'
+MAIL_DEFAULT_SENDER = '"Theresa Ming" <theresaming@gmail.com>'
 
 ADMINS = [
     '"Admin One" <admin1@gmail.com>',
